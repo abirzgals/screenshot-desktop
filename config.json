@@ -1,0 +1,7 @@
+{
+  "_comment": "support format: jpg, png",
+  "minDiffForScreenshot": 5,
+  "showConsoleMessages": false,
+  "screenshotFormat": "jpg",
+  "screenshotQuality": 75
+}
